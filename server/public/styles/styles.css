@@ -1,0 +1,13 @@
+.img {
+    width: 100%;
+    height: auto;
+    margin:auto;
+    border-radius: 100%;
+}
+
+.imgDiv {
+    margin: auto;
+}
+body {
+    background-color: pink;
+}
