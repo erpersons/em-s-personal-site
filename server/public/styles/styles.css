@@ -1,14 +1,15 @@
-.img {
-    width: 100%;
+img {
+    width: 45%;
     height: auto;
     margin:auto;
-    border-radius: 50%;
+    border-radius: 100%;
+    object-fit: cover;
 }
-
-/* .imgDiv {
-    margin: auto;
-} */
 
 body {
     background-color: #ed217c;
 }
+
+/* .icon {
+    margin: right;
+} */
