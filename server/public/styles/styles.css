@@ -10,6 +10,15 @@ body {
     background-color: #ed217c;
 }
 
-/* .icon {
-    margin: right;
-} */
+.GHicon {
+    margin-left: 30%;
+}
+.LIicon {
+    margin-left: center;
+}
+.ints {
+    text-align: center;
+}
+.phil {
+    text-align: center;
+}
